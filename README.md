@@ -76,7 +76,7 @@ export default defineConfig([
 
 ## Student Management System (CRUD)
 
-This project is a Student Management System with full CRUD operations.
+This is a Student Management System with full CRUD operations.
 
 ### Flow of the Application
 
@@ -89,8 +89,4 @@ This project is a Student Management System with full CRUD operations.
    * **View** student details
    * **Edit** student information
    * **Delete** a student
-
-All CRUD operations work properly.
-
----
 
